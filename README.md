@@ -4,6 +4,7 @@ Introudction
 
 The project is that ESP32 records voice by wm8978.And download the binary file form webserver.
 
+
 step
 
 1.config ESP32 wifi configuration.
