@@ -1,7 +1,5 @@
 Welcome to the eps32_voice_record-WM8978
 =========================
-![connect](https://raw.githubusercontent.com/donny681/eps32_voice_record-WM8978-/master/DOCUMENT/IO.PNG)
-<<<<<<< HEAD
 
 Introudction
 ======
